@@ -1,0 +1,1 @@
+document.querySelector('.b').addEventListener('click', function () {alert('aaa')});
